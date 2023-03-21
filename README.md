@@ -1,1 +1,1 @@
-# MedicCloud
+![Project](./assets/project.png)
