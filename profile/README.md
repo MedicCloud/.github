@@ -1,1 +1,1 @@
-![Project IDEA](../assets/project.png)
+![Project IDEA](/assets/project.png)
